@@ -1,0 +1,14 @@
+{
+  "name": "Send Multiple Attachments - Plug & Play",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "17.1.6522.14204",
+  "projectVersion": "1.0.6785.33747",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
